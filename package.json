@@ -1,0 +1,21 @@
+{
+  "name": "danish739_simplecalculator",
+  "version": "1.0.2",
+  "description": "This is a Simple Cammand Line Calculator with typescript, Node.js and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "danish739_simplecalculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
